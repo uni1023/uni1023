@@ -26,3 +26,8 @@
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
 </p>
+
+<!-- stat 표시 -->
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=uni1023&show_icons=true&theme=radical)
+
+
