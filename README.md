@@ -1,5 +1,5 @@
 <!-- 자기소개 하는 문단 -->
-![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=Uni1023&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=shark&color=auto&height=300&section=header&text=Uni1023&fontSize=90)
 
 
 # Introduce
