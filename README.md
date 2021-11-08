@@ -12,7 +12,7 @@
 <p>
   <a href="https://velog.io/@uni1023" target="_blank"><img src="https://img.shields.io/badge/Blog-DD0B78?style=flat-square&logo=GitHub%20Sponsors&logoColor=white"/></a>
   <a href="mailto:yoonsy1023@gmail.com" target="_blank"><img src="https://img.shields.io/badge/yoonsy1023@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
-  <a href="https://www.instagram.com/unigram_1023/?hl=ko" target="_blank"><img src="https://img.shields.io/badge/unigram_1023-1DA1F2?style=flat-square&logo=Twitter&logoColor=white"/></a>
+  <a href="https://www.instagram.com/unigram_1023/?hl=ko" target="_blank"><img src="https://img.shields.io/badge/unigram_1023-1DA1F2?style=flat-square&logo=Instagram&logoColor=white"/></a>
 </p>
 
 <!-- 테크닉 능력, 플랫폼, 사용 언어 나열하는 문단. -->
