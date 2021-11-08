@@ -30,10 +30,12 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
 </p>
 
-<!-- 백준 알고리즘 계급도 -->
-[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj={uni1023})](https://solved.ac/{uni1023})
-[![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj={uni1023})](https://solved.ac/{uni1023})
-[![solved.ac tier](http://mazassumnida.wtf/api/mini/generate_badge?boj={uni1023})](https://solved.ac/{uni1023})
+<!-- 백준 알고리즘 계급도.ver1 -->
+[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj={uni1023})](https://solved.ac/{uni1023})<br/>
+<!-- 백준 알고리즘 계급도.ver2 -->
+[![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj={uni1023})](https://solved.ac/{uni1023})<br/>
+<!-- 백준 알고리즘 계급도.mini -->
+[![solved.ac tier](http://mazassumnida.wtf/api/mini/generate_badge?boj={uni1023})](https://solved.ac/{uni1023})<br/>
 
 <!-- stat 표시 -->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=uni1023&show_icons=true&theme=radical)
